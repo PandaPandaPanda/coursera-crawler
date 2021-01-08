@@ -15,7 +15,7 @@ The top courses that are likely to get one a promotion are mostly about
 - Management
 - Data Analytics
 
-The top coutses that gives one tangible benefits are mostly about
+The top coutses that give one tangible benefits are mostly about
 - Entrepreneurship 
 - Coaching
 - Computer Science
