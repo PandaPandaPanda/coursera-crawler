@@ -1,26 +1,31 @@
 # Java-Web-Crawler-Best-Coursera-Courses
 This is a java web crawler that crawls all courses available on Coursera and ranked them in terms of their "Learner Career Outcomes"
 
+Feel free to run the program yourself and get the most updated stats. The whole process takes hald an hour to severals hours depending on your internet speed
 
-Some Notion from this project
 
-The top courses that guide one to a new career are mostly about
+## Some Notions from this project 
+
+The top courses that guide one to a new career are mostly about (as of 2020)
 - Entrepreneurship
 - Marketing
 - International 
 - Computer Science (Google Cloud, Big Data, etc.)
 
-The top courses that are likely to get one a promotion are mostly about
+The top courses that are likely to get one a promotion are mostly about (as of 2020)
 - Computer Science
 - Management
 - Data Analytics
 
-The top coutses that give one tangible benefits are mostly about
+The top courses that give one tangible benefits are mostly about (as of 2020)
 - Entrepreneurship 
 - Coaching
 - Computer Science
 - Marketing
 - Financing
+
+
+The following are part of the scraping result (The complete JSON file is also available)
 
 New Career Ranking (Top 8)
 
