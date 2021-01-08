@@ -27,6 +27,8 @@ The top courses that give one tangible benefits are mostly about (as of 2020)
 
 The following are part of the scraping result (The complete JSON file is also available)
 
+(A value of -1 means that categories does not exist for the course)
+
 New Career Ranking (Top 8)
 
   {
