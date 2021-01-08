@@ -4,6 +4,23 @@ This is a java web crawler that crawls all courses available on Coursera and ran
 
 Some Notion from this project
 
+The top courses that guide one to a new career are mostly about
+- Entrepreneurship
+- Marketing
+- International 
+- Computer Science (Google Cloud, Big Data, etc.)
+
+The top courses that are likely to get one a promotion are mostly about
+- Computer Science
+- Management
+- Data Analytics
+
+The top coutses that gives one tangible benefits are mostly about
+- Entrepreneurship 
+- Coaching
+- Computer Science
+- Marketing
+- Financing
 
 New Career Ranking (Top 8)
 
